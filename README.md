@@ -1,4 +1,4 @@
-# ProyectoAIcoffe
+# H&M prediction
 ## Miembros
 - Miguel López Vélez cc 1001014378 Bioingeniería
 - Maria Fernanda Villareal Teherán cc 1233345251 Bioingeniería
@@ -19,6 +19,7 @@ files.upload()
 Esto solo aplica para los notebooks 0.1 y 0.2, en el 0.3 se tiene la opción de descargar el dataset desde google drive o directamente del github.
 ## Videos 
 - [Entrega 2](https://youtu.be/QIGSypTM7jk) (Este video es de la entrega anterior y como se tuvo que cambiar el dataset no se vuelve a hacer)
+- [Entrega Final](https://youtu.be/JUZFiu5h6j4)
 ##
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
